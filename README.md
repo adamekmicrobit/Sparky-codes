@@ -1,8 +1,8 @@
-O mě
-Sparky je projekt, který jsem založil proto, protože jsem koukal na ostatní roboty a líbily se mi tak jsem postavil svého vlastního!
+About me 
+Sparky is a project I started because I was looking at other robots and I liked them so I built my own!
 
-Zde je odkaz na návod
+Here is a link to the instructions 
 https://docs.google.com/document/d/1ljK_Ec8-VISQB2iDpDk0zDBGaQiq70FN3sNXY54FMdk/edit?tab=t.nz44nossf8rv
 
-Zde je odkaz na naši stránku
+Here is a link to our website 
 https://sparky-eshop.cz
