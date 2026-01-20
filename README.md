@@ -5,4 +5,4 @@ Zde je odkaz na návod
 https://docs.google.com/document/d/1ljK_Ec8-VISQB2iDpDk0zDBGaQiq70FN3sNXY54FMdk/edit?tab=t.nz44nossf8rv
 
 Zde je odkaz na naši stránku
-sparky-eshop.cz
+https://sparky-eshop.cz
