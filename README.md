@@ -1,4 +1,4 @@
-O mě 
+O mně 
 
 Sparky je projekt, který jsem založil proto, protože jsem koukal na ostatní roboty a líbily se mi tak jsem postavil svůj vlastní!
 
